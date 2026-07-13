@@ -199,7 +199,7 @@ streamlit run app/streamlit_app.py
 
 Try the deployed application here:
 
-**https://student-performance-prediction-msswf6xcnu9ejvyk6dbcfv.streamlit.app/**
+**https://house-price-prediction-tool-tbybkegrhkkte4qm2bqxbx.streamlit.app/**
 
 ---
 
